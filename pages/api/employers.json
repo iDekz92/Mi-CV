@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "name": "Ultrasist",
+    "image": "/employer_ultrasist.jpg",
+    "duration": " Feb 2023 - Present",
+    "description": "",
+    "tags": ["Angular", "CSS", "MySQL", "MongoDB", "Javascript", "Kubernetes", "Openshift", "Docker"]
+  },
+  {
+    "id": 2,
+    "name": "EISEI",
+    "image": "/employer_eisei.jpg",
+    "duration": "Jan 2022 - Jan 2023 (1 year 1 month)",
+    "description": "",
+    "tags": ["MongoDB", "MySQL", "Node", "CSharp", "MySQL", "Angular", "SQLServer", "Javascript", "Kubernetes", "Openshift", "Docker", "GO", "SVN", "Git", "AspNET", "HTML"]
+  },
+  {
+    "id": 1,
+    "name": "Dextra Technologies",
+    "image": "/employer_dextra.png",
+    "duration": "Oct 2017 - Dic 2021 (4 yars 3 months)",
+    "description": "",
+    "tags": ["CSharp", "MySQL", "Angular", "SQLServer", "Javascript", "SVN", "Java"]
+  }
+]
