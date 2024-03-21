@@ -27,7 +27,7 @@ const sidebarTopItems = [
 const sidebarBottomItems = [
   {
     Icon: AccountIcon,
-    path: '/about',
+    path: '#',
   },
   {
     Icon: SettingsIcon,

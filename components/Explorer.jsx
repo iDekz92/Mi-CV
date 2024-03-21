@@ -12,7 +12,7 @@ const explorerItems = [
   },
   {
     name: 'about.html',
-    path: '/about',
+    path: '#',
     icon: 'html_icon.svg',
   },
   {
