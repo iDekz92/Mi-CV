@@ -230,6 +230,9 @@
 .SOAP:hover {
   background: rgba(25, 118, 210, 0.25);
 }
+.SOAP::after {
+  content: ' API';
+}
 
 .bulma {
   border: 0.1rem solid rgb(0, 209, 178);
