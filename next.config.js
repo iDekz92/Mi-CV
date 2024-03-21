@@ -3,6 +3,5 @@ module.exports = {
     unoptimized: true,
   },
   output: "export",
-  reactStrictMode: true,
   basePath: "/"
 };
