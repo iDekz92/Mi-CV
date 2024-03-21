@@ -1,7 +1,6 @@
 module.exports = {
   images: {
-    unoptimized: true,
+    loader: 'akamai',
+    path: '',
   },
-  output: "export",
-  basePath: "/"
 };
