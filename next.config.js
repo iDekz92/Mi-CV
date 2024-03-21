@@ -3,4 +3,5 @@ module.exports = {
     loader: 'akamai',
     path: '',
   },
+  basePath : '/'
 };
