@@ -7,8 +7,7 @@ export default function HomePage() {
   return (
     <>
       <div className={styles.container}>
-        <div className={styles.background}>
-          <Image
+        {/* <Image
             src="/not-image.png"
             alt="Picture of the author"
             width={512}
@@ -16,7 +15,7 @@ export default function HomePage() {
             objectFit='contain'
             className={styles.logo}
           />
-        </div>
+        </div> */}
         <div className={styles.foreground}>
           <div className={styles.content}>
             <h1 className={styles.name}>Oscar de Jesus Zuñiga Zavala</h1>
@@ -31,12 +30,12 @@ export default function HomePage() {
           </div>
           <br />
           <Image
-            src="/not-image.png"
+            src="/logo_dekz.png"
             alt="Picture of the author"
             width={512}
             height={512}
             objectFit='contain'
-            className={styles.image}
+            className={styles.logo}
           />
         </div>
       </div>
