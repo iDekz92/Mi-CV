@@ -10,22 +10,7 @@ const socialItems = [
   {
     social: 'Linkedin',
     link: 'Oscar de Jesus Zuñiga Zavala',
-    href: 'https://www.linkedin.com/in/oscar-de-jesus-zu%C3%B1iga-zavala/',
-  },
-  {
-    social: 'Twitter',
-    link: 'Oscar Zuñiga',
-    href: 'https://twitter.com/iOscar92_/',
-  },
-  {
-    social: 'Instagram',
-    link: 'Oscar Zuñiga',
-    href: 'https://www.instagram.com/iOscar92_/',
-  }, 
-  {
-    social: 'Facebook',
-    link: 'Oscar Zuñiga',
-    href: 'https://www.facebook.com/iOscar92/'
+    href: 'https://www.linkedin.com/in/oscar-de-jesus-zu%C3%B1iga-zavala/'
   }
 ];
 
