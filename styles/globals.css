@@ -84,24 +84,24 @@
   background: rgba(131, 205, 41, 0.25);
 }
 
-.Java7 {
+.Java-7 {
   border: 0.1rem solid rgb(82, 143, 240);
 }
-.Java7:hover {
+.Java-7:hover {
   background: rgba(82, 143, 240, 0.25);
 }
 
-.Java11 {
+.Java-11 {
   border: 2px solid rgb(198, 212, 6);
 }
-.Java11:hover {
+.Java-11:hover {
   background: rgba(198, 212, 6, 0.25);
 }
 
-.Java17 {
+.Java-17 {
   border: 0.1rem solid rgb(97, 218, 251);
 }
-.Java17:hover {
+.Java-17:hover {
   background: rgba(97, 218, 251, 0.25);
 }
 
