@@ -5,7 +5,7 @@
     "image": "/employer_ultrasist.jpg",
     "duration": " Feb 2023 - Present",
     "description": "",
-    "tags": ["Angular", "Node", "CSS3", "MySQL", "HTML", "MongoDB", "SOAP", "REST", "Java17", "SQLServer", "Javascript", "Kubernetes", "Openshift", "Docker", "GO", "Git", "SVN", "Oracle", "Java11", "Camel", "Maven", "Quarkus"]
+    "tags": ["Angular", "Node", "CSS3", "MySQL", "HTML", "MongoDB", "SOAP", "REST", "Java-17", "SQLServer", "Javascript", "Kubernetes", "Openshift", "Docker", "GO", "Git", "SVN", "Oracle", "Java-11", "Camel", "Maven", "Quarkus"]
   },
   {
     "id": 2,
@@ -21,6 +21,6 @@
     "image": "/employer_dextra.png",
     "duration": "Oct 2017 - Dic 2021 (4 yars 3 months)",
     "description": "",
-    "tags": ["CSharp", "MySQL", "Angular", "SQLServer", "Oracle", "Javascript", "Informix", "SVN", "Java7", "HTML", "CSS3", "SOAP", "Framework", "NET"]
+    "tags": ["CSharp", "MySQL", "Angular", "SQLServer", "Oracle", "Javascript", "Informix", "SVN", "Java-7", "HTML", "CSS3", "SOAP", "Framework", "NET"]
   }
 ]
